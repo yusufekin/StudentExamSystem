@@ -1,0 +1,49 @@
+C:\Users\Muhammed\source\repos\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\YazılımYapımıProje.exe.config
+C:\Users\Muhammed\source\repos\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\YazılımYapımıProje.exe
+C:\Users\Muhammed\source\repos\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\YazılımYapımıProje.pdb
+C:\Users\Muhammed\source\repos\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.csproj.AssemblyReference.cache
+C:\Users\Muhammed\source\repos\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.Form1.resources
+C:\Users\Muhammed\source\repos\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.Properties.Resources.resources
+C:\Users\Muhammed\source\repos\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.csproj.GenerateResource.cache
+C:\Users\Muhammed\source\repos\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.exe
+C:\Users\Muhammed\source\repos\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.pdb
+C:\Users\Muhammed\source\repos\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.Form2.resources
+C:\Users\Muhammed\source\repos\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.Form3.resources
+C:\Users\Muhammed\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\YazılımYapımıProje.exe.config
+C:\Users\Muhammed\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\YazılımYapımıProje.exe
+C:\Users\Muhammed\Desktop\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\YazılımYapımıProje.pdb
+C:\Users\Muhammed\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.csproj.AssemblyReference.cache
+C:\Users\Muhammed\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammed\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.LoginScreen.resources
+C:\Users\Muhammed\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.SignUp.resources
+C:\Users\Muhammed\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.RefreshPassword.resources
+C:\Users\Muhammed\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.Properties.Resources.resources
+C:\Users\Muhammed\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.csproj.GenerateResource.cache
+C:\Users\Muhammed\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.exe
+C:\Users\Muhammed\Desktop\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\YazılımYapımıProje.exe.config
+C:\Users\yusuf\OneDrive\Masaüstü\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\YazılımYapımıProje.exe
+C:\Users\yusuf\OneDrive\Masaüstü\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\YazılımYapımıProje.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.LoginScreen.resources
+C:\Users\yusuf\OneDrive\Masaüstü\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.SignUp.resources
+C:\Users\yusuf\OneDrive\Masaüstü\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.RefreshPassword.resources
+C:\Users\yusuf\OneDrive\Masaüstü\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.Properties.Resources.resources
+C:\Users\yusuf\OneDrive\Masaüstü\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.csproj.GenerateResource.cache
+C:\Users\yusuf\OneDrive\Masaüstü\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.exe
+C:\Users\yusuf\OneDrive\Masaüstü\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\YazılımYapımıProje.exe.config
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\YazılımYapımıProje.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Yapımı\YazılımYapımıProje\YazılımYapımıProje\bin\Debug\YazılımYapımıProje.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Yapımı\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Yapımı\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.LoginScreen.resources
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Yapımı\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.SignUp.resources
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Yapımı\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.RefreshPassword.resources
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Yapımı\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.Properties.Resources.resources
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Yapımı\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.csproj.GenerateResource.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Yapımı\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Yapımı\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Yapımı\YazılımYapımıProje\YazılımYapımıProje\obj\Debug\YazılımYapımıProje.pdb
